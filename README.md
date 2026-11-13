@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**savrys/savrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, я savrys 👋
 
-Here are some ideas to get you started:
+### Разбираюсь в коде и превращаю идеи в работающие проекты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub followers](https://img.shields.io/github/followers/savrys?style=flat&color=5eead4&label=подписчики)](https://github.com/savrys?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=savrys&style=flat&color=5eead4&label=просмотры)](https://github.com/savrys)
+
+</div>
+
+---
+
+### `$ whoami`
+
+Напиши здесь пару слов о себе: чем занимаешься, что изучаешь и над чем работаешь.
+
+### `$ tech-stack`
+
+**Языки:** `добавь свои языки`  
+**Инструменты:** `добавь свои инструменты`
+
+### `$ projects`
+
+- 🚀 **Название проекта** — коротко расскажи, что он делает. [Посмотреть →](ссылка)
+- 🧪 **Название проекта** — ещё один проект или эксперимент. [Посмотреть →](ссылка)
+
+### `$ currently`
+
+- 🌱 Сейчас изучаю: **[тема]**
+- 🔭 Работаю над: **[проект]**
+- 💬 Можно спросить меня про: **[тема]**
+
+---
+
+<div align="center">
+
+*Спасибо, что заглянул(а) ✨*
+
+</div>
