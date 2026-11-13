@@ -5,7 +5,7 @@
 ### Разбираюсь в коде и превращаю идеи в работающие проекты.
 
 [![GitHub followers](https://img.shields.io/github/followers/savrys?style=flat&color=5eead4&label=подписчики)](https://github.com/savrys?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=savrys&style=flat&color=5eead4&label=просмотры)     ](https://github.com/savrys)
+[![Profile views](https://komarev.com/ghpvc/?username=savrys&style=flat&color=5eead4&label=просмотры)](        https://github.com/savrys)
 
 </div>
 
